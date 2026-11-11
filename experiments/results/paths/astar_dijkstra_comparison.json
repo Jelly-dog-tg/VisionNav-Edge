@@ -1,0 +1,16 @@
+{
+  "environment": "warehouse",
+  "map_resolution": 0.1,
+  "astar": {
+    "path_nodes": 76,
+    "expanded_nodes": 817,
+    "path_length_m": 9.363961030678915
+  },
+  "dijkstra": {
+    "path_nodes": 76,
+    "expanded_nodes": 22274,
+    "path_length_m": 9.363961030678915
+  },
+  "same_optimal_path_cost": true,
+  "astar_expansion_reduction_percent": 96.33204633204633
+}

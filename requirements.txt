@@ -1,0 +1,17 @@
+# Core simulation
+# Install pybullet separately first: pip install pybullet
+pybullet
+
+# BC / ACT (also used by Stable-Baselines3)
+torch>=2.0
+
+# RL libraries
+gymnasium>=0.29.0
+stable-baselines3[extra]>=2.0.0
+
+# Utilities
+numpy>=1.24.0
+matplotlib>=3.7.0
+pyyaml>=6.0
+tensorboard>=2.13.0
+opencv-python>=4.8.0

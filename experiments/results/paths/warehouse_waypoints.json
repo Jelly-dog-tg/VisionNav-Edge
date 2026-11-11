@@ -1,0 +1,48 @@
+{
+  "environment": "warehouse",
+  "algorithm": "A* + line-of-sight simplification",
+  "resolution": 0.1,
+  "arena_size": 10.0,
+  "original_nodes": 76,
+  "waypoint_nodes": 4,
+  "original_length_m": 9.363961030678928,
+  "simplified_length_m": 8.774286466189812,
+  "node_reduction_percent": 94.73684210526316,
+  "collision_free_on_grid": true,
+  "waypoints_grid": [
+    [
+      100,
+      100
+    ],
+    [
+      126,
+      139
+    ],
+    [
+      132,
+      147
+    ],
+    [
+      160,
+      160
+    ]
+  ],
+  "waypoints_world": [
+    [
+      0.05000000000000071,
+      0.05000000000000071
+    ],
+    [
+      3.950000000000001,
+      2.6500000000000004
+    ],
+    [
+      4.75,
+      3.25
+    ],
+    [
+      6.050000000000001,
+      6.050000000000001
+    ]
+  ]
+}
